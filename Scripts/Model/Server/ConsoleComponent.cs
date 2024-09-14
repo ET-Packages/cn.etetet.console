@@ -1,9 +1,9 @@
 using System.Collections.Generic;
 using System.Threading;
 
-namespace ET
+namespace ET.Server
 {
-    public static class ConsoleMode
+    public static partial class ConsoleMode
     {
         public const string ReloadDll = "R";
         public const string ReloadConfig = "C";

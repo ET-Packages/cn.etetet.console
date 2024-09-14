@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ET
+namespace ET.Server
 {
     [CodeProcess]
     public class ConsoleDispatcher: Singleton<ConsoleDispatcher>, ISingletonAwake

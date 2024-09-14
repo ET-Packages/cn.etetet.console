@@ -1,4 +1,4 @@
-﻿namespace ET
+﻿namespace ET.Server
 {
     [EntitySystemOf(typeof(ModeContex))]
     public static partial class ModeContexSystem

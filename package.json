@@ -1,7 +1,7 @@
 ﻿{
   "name": "cn.etetet.console",
   "displayName": "ET.Console",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2022.3",
   "description": "实现了控制台解析分发",
   "author": {
@@ -14,7 +14,7 @@
   },
   "relatedPackages": {},
   "dependencies": {
-    "cn.etetet.core": "1.0.0"
+    "cn.etetet.core": "1.0.2"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@ET-Packages"

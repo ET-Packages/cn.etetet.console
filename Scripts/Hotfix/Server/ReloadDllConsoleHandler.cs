@@ -1,4 +1,4 @@
-namespace ET
+namespace ET.Server
 {
     [ConsoleHandler(ConsoleMode.ReloadDll)]
     public class ReloadDllConsoleHandler: IConsoleHandler
